@@ -69,6 +69,6 @@ function reverseString(str){
     }
     return reversedStr;
 };
-  let string = "Christine";
+  let string = "Hellen";
   let reverse = reverseString(string);
   console.log(reverse);
