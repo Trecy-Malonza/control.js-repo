@@ -1,0 +1,64 @@
+.navbar{
+    display: flex;
+    gap: 10%;
+} 
+.home{
+    gap: 100%;
+}
+.services{
+    display: flex;
+    gap: 15%;
+}
+.body{
+    background-color: aqua;
+}
+.we{
+    display: flex;
+    gap: 20%;
+}
+#img{
+    width: 400px;
+    height: 300p5;
+}
+.button{
+    display: flex;
+}
+.images{
+    display: flex;
+    gap: 10%;
+}
+.images1{
+    display: flex;
+    gap: 10%;
+}
+#img1{
+    width: 200px;
+}
+#cross{
+    width: 50px;
+    height:50px
+}
+.branches{
+    display: flex;
+    gap: 10%;
+    background-color: aqua;
+}
+.our{
+    display: flex;
+    gap: 10%;
+}
+.both{
+    display: flex;
+    gap: 10%;
+}
+.nurses{
+    display: flex;
+    gap: 10%;
+}
+.blog{
+    text-align: center;
+}
+.footer{
+    display: flex;
+    gap: 25%;
+}
